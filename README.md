@@ -10,64 +10,73 @@ I believe the best way to learn is by building real-world solutions. Most of my 
 
 ## 🚀 What I'm About
 
-- 🎓 &nbsp; Final Year B.E. CSE student — Chennai, Tamil Nadu
-- ☁️ &nbsp; Transitioning from **Full Stack Dev → Cloud + DevOps Engineer**
-- 🛠️ &nbsp; Currently learning: **AWS · Docker · Terraform · CI/CD pipelines**
-- 🔥 &nbsp; Actively building projects on AWS — hands-on every single day
-- 🐍 &nbsp; Writing automation scripts in **Python & Bash** to make infra do the work
-- 🎯 &nbsp; Goal: Land a **Cloud / DevOps Engineer** role 
-- 📍 &nbsp; Based in **Chennai, India** — open to remote and on-site roles
+* 🎓 Final Year B.E. Computer Science Student
+* ☁️ Transitioning from **Full Stack Development → Cloud & DevOps**
+* 🛠️ Currently learning **AWS, Docker, Terraform, and CI/CD**
+* 🔥 Building and deploying projects on AWS
+* 🐍 Writing automation scripts with **Python & Bash**
+* 🎯 Aspiring **Cloud / DevOps Engineer**
+* 📍 Chennai, Tamil Nadu, India
 
 ---
 
 ## 🧰 Tech Stack
-Cloud & DevOps
+
+### ☁️ Cloud & DevOps
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform" title="Terraform"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" title="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
 </p>
-Languages
+
+### 💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash"/>
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
 </p>
-Full Stack
+
+### 🌐 Full Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" title="Express"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" title="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
 </p>
-Tools
+
+### 🛠️ Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/>
 </p>
+
 ---
 
 ## 🔥 Current Focus
 
-- ☁️ &nbsp; **AWS** — building real infrastructure daily on the free tier
-- 🐳 &nbsp; **Docker** — containerising everything I build
-- ⚙️ &nbsp; **Terraform** — automating infra provisioning with code
-- 💻 &nbsp; **LeetCode + HackerRank** — sharpening problem-solving skills
-- 📝 &nbsp; **Documenting** — every build gets a proper README + architecture diagram
+* ☁️ AWS — learning cloud services and deployments
+* 🐳 Docker — containerizing applications
+* ⚙️ Terraform — infrastructure as code
+* 💻 LeetCode & HackerRank — improving problem-solving skills
+* 📝 Writing clear documentation for every project
 
 ---
 
 ## 📊 GitHub Stats
 
-![Tharun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharunhub27&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunhub27&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Tharunhub27&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tharunhub27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -75,22 +84,24 @@ Tools
 
 <p>
   <a href="mailto:tharunsiva2706@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" title="Mail me"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
-  &nbsp;
-  <a href="www.linkedin.com/in/tharunsiva-m">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn"/>
+
+  <a href="https://www.linkedin.com/in/tharunsiva-m">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  &nbsp;
+
   <a href="https://github.com/Tharunhub27">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </p>
+
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tharunhub27&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Tharunhub27&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
 <p align="center">
-  <i>"The best time to start was yesterday. The next best time is right now."</i><br/>
+  <i>"The best time to start was yesterday. The next best time is right now."</i>
 </p>
