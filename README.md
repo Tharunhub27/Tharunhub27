@@ -1,6 +1,6 @@
 # Hi, I'm Tharun Siva M 👋
 
-I'm a Final Year B.E. Computer Science student passionate about Full Stack Development, Cloud Computing, and DevOps.
+I'm a Final Year B.E. Computer Science student passionate about Web Development, Cloud Computing, and DevOps.
 
 I enjoy building web applications and learning how to deploy, manage, and scale them using AWS. I'm always exploring new technologies and improving my skills through hands-on projects.
 
@@ -11,7 +11,7 @@ I believe the best way to learn is by building real-world solutions. Most of my 
 ## 🚀 What I'm About
 
 * 🎓 Final Year B.E. Computer Science Student
-* ☁️ Transitioning from **Full Stack Development → Cloud & DevOps**
+* ☁️ Transitioning from **Web Development → Cloud & DevOps**
 * 🛠️ Currently learning **AWS, Docker, Terraform, and CI/CD**
 * 🔥 Building and deploying projects on AWS
 * 🐍 Writing automation scripts with **Python & Bash**
