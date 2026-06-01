@@ -45,8 +45,6 @@ I believe the best way to learn is by building real-world solutions. Most of my 
 <p>
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express"/>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
 </p>
