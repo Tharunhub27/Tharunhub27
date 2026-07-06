@@ -118,6 +118,71 @@ PID   COMMAND              STATUS     DESCRIPTION
 
 ---
 
+### `$ which -a tools technologies languages`
+
+<div align="center">
+
+**🐧 Operating Systems & Systems Internals**
+<br><sub>Core Ubuntu setup, automated task managers, and logging control</sub>
+
+![Linux](https://img.shields.io/badge/Ubuntu%20Linux-E95420?style=flat-square&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-Services-4B5563?style=flat-square)
+![cron](https://img.shields.io/badge/cron-Automation-4B5563?style=flat-square)
+![Log Management](https://img.shields.io/badge/Log%20Management-4B5563?style=flat-square)
+![apt](https://img.shields.io/badge/apt-Package%20Mgmt-4B5563?style=flat-square)
+
+<br>
+
+**☁️ Cloud & Infrastructure as Code (IaC)**
+<br><sub>Architecting scale without hardcoded values</sub>
+
+![AWS](https://img.shields.io/badge/AWS%20(EC2%2C%20S3)-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+
+<br>
+
+**🐳 Containerization & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker%20(Microservices)-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Roadmap-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+<br>
+
+**⚡ Version Control, CI/CD Pipelines & Networking**
+<br><sub>Production release engineering and GitFlow</sub>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx%20(Reverse%20Proxy)-009639?style=flat-square&logo=nginx&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4B5563?style=flat-square)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-4B5563?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-4B5563?style=flat-square)
+
+<br>
+
+**💻 Programming Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<br>
+
+**🌐 Developer Productivity Tools**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux Terminal](https://img.shields.io/badge/Linux%20Terminal-4B5563?style=flat-square&logo=gnometerminal&logoColor=white)
+
+</div>
+
+---
+
 ### `$ git log --graph --format="%s %d"`
 
 ```
@@ -132,7 +197,8 @@ PID   COMMAND              STATUS     DESCRIPTION
 *  Open for collaboration               [always]
 ```
 
----
+
+<div align="center">
 
 ### `$ connect --with tharun`
 
