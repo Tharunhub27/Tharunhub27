@@ -1,76 +1,51 @@
 # Hi, I'm Tharun Siva M 👋
 
-I'm a Final Year B.E. Computer Science student passionate about Web Development, Cloud Computing, and DevOps.
+I am a Final Year B.E. Computer Science student specializing in building robust web applications and designing scalable, automated cloud infrastructure. My passion lies at the intersection of **Full-Stack Development, Cloud Architecture, and DevOps**, with a keen interest in integrating **Emerging Technologies like AI and AR/VR systems**.
 
-I enjoy building web applications and learning how to deploy, manage, and scale them using AWS. I'm always exploring new technologies and improving my skills through hands-on projects.
-
-I believe the best way to learn is by building real-world solutions. Most of my projects are developed, deployed, and documented so I can continuously learn and share my journey with others.
+I focus on building production-ready solutions, containerizing workloads, and automating deployments using modern CI/CD practices. I believe true engineering mastery comes from hands-on building, rigorous documentation, and continuous learning.
 
 ---
 
-## 🚀 What I'm About
+## 🚀 Professional Profile
 
-* 🎓 Final Year B.E. Computer Science Student
-* ☁️ Transitioning from **Web Development → Cloud & DevOps**
-* 🛠️ Currently learning **AWS, Docker, Terraform, and CI/CD**
-* 🔥 Building and deploying projects on AWS
-* 🐍 Writing automation scripts with **Python & Bash**
-* 🎯 Aspiring **Cloud / DevOps Engineer**
-* 📍 Chennai, Tamil Nadu, India
+*   🎓 **Education:** Final Year B.E. in Computer Science & Engineering
+*   🎯 **Career Goal:** Aspiring Cloud / DevOps Engineer
+*   ☁️ **Core Transition:** Web Development ➔ Scalable Cloud Infrastructure & Automation
+*   🤖 **Tech Exploration:** Generative AI integration, Data Engineering (ML models), and AR/VR development
+*   📍 **Location:** Chennai, Tamil Nadu, India
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Tools
 
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="Terraform"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
+### ☁️ Cloud, DevOps & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,githubactions,linux" alt="DevOps Stack"/>
 </p>
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash"/>
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
+### 💻 Programming Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,bash,c,react,nodejs" alt="Languages and Frameworks"/>
 </p>
 
-### 🌐 Full Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman"/>
+### 🌐 Core Web Technologies & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,postman" alt="Web Tools"/>
 </p>
 
 ---
 
-## 🔥 Current Focus
+## 🔥 Current Focus & Objectives
 
-* ☁️ AWS — learning cloud services and deployments
-* 🐳 Docker — containerizing applications
-* ⚙️ Terraform — infrastructure as code
-* 💻 LeetCode & HackerRank — improving problem-solving skills
-* 📝 Writing clear documentation for every project
+*   🏗️ **Infrastructure as Code:** Designing modular, reusable infrastructure blueprints using Terraform.
+*   🐳 **Containerization:** Architecting multi-container microservices environments using Docker.
+*   ⚡ **CI/CD Pipelines:** Automating test-and-deploy workflows with GitHub Actions to streamline software delivery.
+*   🤖 **Next-Gen Tech:** Implementing foundational AI/ML models (Regression, LSTM) and exploring immersive spaces using the VR World Toolkit.
+*   🧩 **Problem Solving:** Refining algorithmic thinking via data structures and competitive programming.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Tharunhub27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -80,15 +55,15 @@ I believe the best way to learn is by building real-world solutions. Most of my 
 
 ## 🤝 Let's Connect
 
-<p>
+Feel free to reach out if you'd like to collaborate on open-source projects, discuss Cloud/DevOps architecture, or just talk about emerging tech!
+
+<p align="left">
   <a href="mailto:tharunsiva2706@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
   </a>
-
   <a href="https://www.linkedin.com/in/tharunsiva-m">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-
   <a href="https://github.com/Tharunhub27">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
